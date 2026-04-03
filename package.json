@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
@@ -23,8 +25,10 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "bootstrap": "^5.3.8",
+    "cypress": "^15.13.0",
     "eslint": "^9",
     "eslint-config-next": "^16.2.2",
-    "typescript": "6.0.2"
+    "typescript": "6.0.2",
+    "wait-on": "^9.0.4"
   }
 }
