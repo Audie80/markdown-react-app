@@ -29,6 +29,6 @@
     "eslint": "^9",
     "eslint-config-next": "^16.2.4",
     "typescript": "6.0.3",
-    "wait-on": "^9.0.4"
+    "wait-on": "^9.0.5"
   }
 }
