@@ -28,7 +28,7 @@
     "cypress": "^15.18.1",
     "eslint": "^10",
     "eslint-config-next": "^16.2.10",
-    "typescript": "6.0.3",
+    "typescript": "7.0.2",
     "wait-on": "^9.0.10"
   }
 }
