@@ -12,7 +12,7 @@
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
     "@vercel/speed-insights": "2.0.0",
-    "isomorphic-dompurify": "3.19.0",
+    "isomorphic-dompurify": "3.22.0",
     "marked": "^18.0.6",
     "next": "^16.3.0",
     "react": "^19.2.8",
