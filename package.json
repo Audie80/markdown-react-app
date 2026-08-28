@@ -24,7 +24,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "bootstrap": "^5.3.8",
-    "cypress": "^15.20.0",
+    "cypress": "^15.21.1",
     "eslint": "^9.39.5",
     "eslint-config-next": "^16.3.0",
     "typescript": "6.0.3",
