@@ -19,13 +19,14 @@
     "react-dom": "19.3.0"
   },
   "devDependencies": {
+    "@eslint/compat": "^2.0.0",
     "@types/jsdom": "^30.0.0",
     "@types/node": "26.6.1",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "bootstrap": "^5.3.8",
     "cypress": "^15.21.1",
-    "eslint": "^9.39.5",
+    "eslint": "^10.10.0",
     "eslint-config-next": "^16.3.4",
     "typescript": "6.0.3",
     "wait-on": "^9.1.0"
