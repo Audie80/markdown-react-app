@@ -27,7 +27,7 @@
     "bootstrap": "^5.3.8",
     "cypress": "^15.21.1",
     "eslint": "^10.11.0",
-    "eslint-config-next": "^16.3.4",
+    "eslint-config-next": "^16.3.6",
     "typescript": "6.0.3",
     "wait-on": "^9.1.0"
   }
